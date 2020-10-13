@@ -32,8 +32,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "C:\\Developer\\Xamarin\\XamarinRepo\\MobileX\\App1\\App1\\MobileX.csproj": {
-                "projectPath": "C:\\Developer\\Xamarin\\XamarinRepo\\MobileX\\App1\\App1\\MobileX.csproj"
+              "C:\\Developer\\Xamarin\\XamarinRepo\\MobileX\\MobileX\\MobileX\\MobileX.csproj": {
+                "projectPath": "C:\\Developer\\Xamarin\\XamarinRepo\\MobileX\\MobileX\\MobileX\\MobileX.csproj"
               }
             }
           }
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Developer\\Xamarin\\XamarinRepo\\MobileX\\App1\\App1\\MobileX.csproj": {
+    "C:\\Developer\\Xamarin\\XamarinRepo\\MobileX\\MobileX\\MobileX\\MobileX.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Developer\\Xamarin\\XamarinRepo\\MobileX\\App1\\App1\\MobileX.csproj",
+        "projectUniqueName": "C:\\Developer\\Xamarin\\XamarinRepo\\MobileX\\MobileX\\MobileX\\MobileX.csproj",
         "projectName": "MobileX",
-        "projectPath": "C:\\Developer\\Xamarin\\XamarinRepo\\MobileX\\App1\\App1\\MobileX.csproj",
+        "projectPath": "C:\\Developer\\Xamarin\\XamarinRepo\\MobileX\\MobileX\\MobileX\\MobileX.csproj",
         "packagesPath": "C:\\Users\\hejia.LAPTOP-KD2OC0CT\\.nuget\\packages\\",
-        "outputPath": "C:\\Developer\\Xamarin\\XamarinRepo\\MobileX\\App1\\App1\\obj\\",
+        "outputPath": "C:\\Developer\\Xamarin\\XamarinRepo\\MobileX\\MobileX\\MobileX\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

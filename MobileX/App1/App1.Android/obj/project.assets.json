@@ -1918,8 +1918,8 @@
     },
     "MobileX/1.0.0": {
       "type": "project",
-      "path": "../App1/MobileX.csproj",
-      "msbuildProject": "../App1/MobileX.csproj"
+      "path": "../../MobileX/MobileX/MobileX.csproj",
+      "msbuildProject": "../../MobileX/MobileX/MobileX.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -1961,8 +1961,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Developer\\Xamarin\\XamarinRepo\\MobileX\\App1\\App1\\MobileX.csproj": {
-              "projectPath": "C:\\Developer\\Xamarin\\XamarinRepo\\MobileX\\App1\\App1\\MobileX.csproj"
+            "C:\\Developer\\Xamarin\\XamarinRepo\\MobileX\\MobileX\\MobileX\\MobileX.csproj": {
+              "projectPath": "C:\\Developer\\Xamarin\\XamarinRepo\\MobileX\\MobileX\\MobileX\\MobileX.csproj"
             }
           }
         }

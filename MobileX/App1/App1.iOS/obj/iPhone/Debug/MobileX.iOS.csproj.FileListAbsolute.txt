@@ -1,5 +1,3 @@
-C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.iOS\bin\iPhone\Debug\App1.iOS.exe
-C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.iOS\bin\iPhone\Debug\App1.iOS.pdb
 C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
 C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
 C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
@@ -55,5 +53,7 @@ C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.iOS\obj\iPhone\Debug\MobileX.
 C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.iOS\obj\iPhone\Debug\MobileX.iOS.csproj.CoreCompileInputs.cache
 C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.iOS\obj\iPhone\Debug\XamlC.stamp
 C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.iOS\obj\iPhone\Debug\MobileX.iOS.csproj.CopyComplete
-C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.iOS\obj\iPhone\Debug\App1.iOS.exe
-C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.iOS\obj\iPhone\Debug\App1.iOS.pdb
+C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.iOS\bin\iPhone\Debug\MobileX.iOS.exe
+C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.iOS\bin\iPhone\Debug\MobileX.iOS.pdb
+C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.iOS\obj\iPhone\Debug\MobileX.iOS.exe
+C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.iOS\obj\iPhone\Debug\MobileX.iOS.pdb

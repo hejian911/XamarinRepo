@@ -1,5 +1,5 @@
-C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\bin\Debug\App1.Android.dll
-C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\bin\Debug\App1.Android.pdb
+C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\bin\Debug\MobileX.Android.dll
+C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\bin\Debug\MobileX.Android.pdb
 C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\bin\Debug\com.companyname.app1.apk
 C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\bin\Debug\com.companyname.app1.aab
 C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\bin\Debug\com.companyname.app1-Signed.aab
@@ -19,8 +19,8 @@ C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\obj\Debug\90\R.cs.fla
 C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\obj\Debug\90\MobileX.Android.csproj.CoreCompileInputs.cache
 C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\obj\Debug\90\XamlC.stamp
 C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\obj\Debug\90\MobileX.Android.csproj.CopyComplete
-C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\obj\Debug\90\App1.Android.dll
-C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\obj\Debug\90\App1.Android.pdb
+C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\obj\Debug\90\MobileX.Android.dll
+C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\obj\Debug\90\MobileX.Android.pdb
 C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\obj\Debug\90\android\bin\com.companyname.app1.apk
 C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\obj\Debug\90\android\bin\base.zip
 C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\obj\Debug\90\android\bin\com.companyname.app1.aab
@@ -43,11 +43,11 @@ C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\obj\Debug\90\res\mipm
 C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\obj\Debug\90\res\mipmap-xxxhdpi\launcher_foreground.png
 C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\obj\Debug\90\uploadflags.txt
 C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\obj\Debug\90\resolvedassemblies.hash
-C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\obj\Debug\90\android\assets\App1.Android.dll
-C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\obj\Debug\90\android\assets\App1.Android.pdb
 C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\obj\Debug\90\android\assets\FormsViewGroup.dll
 C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\obj\Debug\90\android\assets\FormsViewGroup.pdb
 C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\obj\Debug\90\android\assets\Java.Interop.dll
+C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\obj\Debug\90\android\assets\MobileX.Android.dll
+C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\obj\Debug\90\android\assets\MobileX.Android.pdb
 C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\obj\Debug\90\android\assets\MobileX.dll
 C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\obj\Debug\90\android\assets\MobileX.pdb
 C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\obj\Debug\90\android\assets\Mono.Android.dll
@@ -375,7 +375,7 @@ C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\obj\Debug\90\android\
 C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\WebAuthenticatorCallbackActivity.java
 C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\obj\Debug\90\android\src\crc64a98abb514ffad9f1\CustomTabsServiceConnectionImpl.java
 C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\obj\Debug\90\android\src\crc64a98abb514ffad9f1\KeepAliveService.java
-C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\obj\Debug\90\android\src\crc64ad68f59cd763e462\MainActivity.java
+C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\obj\Debug\90\android\src\crc64b0824940efe47b88\MainActivity.java
 C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\ButtonRenderer.java
 C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\FrameRenderer.java
 C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\ImageRenderer.java
