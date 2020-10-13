@@ -984,9 +984,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Developer\\Xamarin\\XamarinRepo\\MobileX\\App1\\App1.iOS\\App1.iOS.csproj",
-      "projectName": "App1.iOS",
-      "projectPath": "C:\\Developer\\Xamarin\\XamarinRepo\\MobileX\\App1\\App1.iOS\\App1.iOS.csproj",
+      "projectUniqueName": "C:\\Developer\\Xamarin\\XamarinRepo\\MobileX\\App1\\App1.iOS\\MobileX.iOS.csproj",
+      "projectName": "MobileX.iOS",
+      "projectPath": "C:\\Developer\\Xamarin\\XamarinRepo\\MobileX\\App1\\App1.iOS\\MobileX.iOS.csproj",
       "packagesPath": "C:\\Users\\hejia.LAPTOP-KD2OC0CT\\.nuget\\packages\\",
       "outputPath": "C:\\Developer\\Xamarin\\XamarinRepo\\MobileX\\App1\\App1.iOS\\obj\\",
       "projectStyle": "PackageReference",
