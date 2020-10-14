@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MobileX.PeopertyElementSytax">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Welcome to the Shop"
+           FontSize="14"
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand"
+                   TextColor="Green"
+                   Rotation="10"
+                   FontAttributes="Bold"></Label>
+
+            <Label>
+                <Label.Text>Welcom Label tex</Label.Text>
+            </Label>
+            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

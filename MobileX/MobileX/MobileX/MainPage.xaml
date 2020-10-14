@@ -2,23 +2,48 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="MobileX.MainPage">
-
     <StackLayout>
-        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
-            <Label Text="Welcome to Xamarin.Forms!" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
-        </Frame>
-        <Label Text="Start developing now" FontSize="Title" Padding="30,10,30,10"/>
-        <Label Text="Make changes to your XAML file and save to see your UI update in the running app with XAML Hot Reload. Give it a try!" FontSize="16" Padding="30,0,30,0"/>
-        <Label FontSize="16" Padding="30,24,30,0">
-            <Label.FormattedText>
-                <FormattedString>
-                    <FormattedString.Spans>
-                        <Span Text="Learn more at "/>
-                        <Span Text="https://aka.ms/xamarin-quickstart" FontAttributes="Bold"/>
-                    </FormattedString.Spans>
-                </FormattedString>
-            </Label.FormattedText>
-        </Label>
-    </StackLayout>
+    <Grid BackgroundColor="#F8F4F1"
+             >
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="100"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="2*"></RowDefinition>
 
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Label 
+           Text="Welcome to the Shop"
+           FontSize="12"
+           HorizontalOptions="Center"
+           VerticalOptions="Center"
+                   TextColor="BlueViolet"
+                   Grid.Row="0"
+                   Grid.Column="0"
+                   Grid.ColumnSpan="3"
+                  
+                   ></Label>
+        <BoxView Color="#e6e4d9" Grid.Row="1" Grid.Column="0"/>
+        <BoxView Color="#e6e4d9" Grid.Row="1" Grid.Column="0"/>
+        <BoxView Color="#23cfa7" Grid.Row="1" Grid.Column="1"/>
+        <BoxView Color="#e6e4d9" Grid.Row="1" Grid.Column="2"/>
+        <Label 
+                Text="After logging in, Team Explorer lights up with a variety of shortcuts and features to make your experience with GitHub as seamless as possible. Many of the buttons are shortcuts to the GitHub portal page for this project, such as Pulse, Graphs, and Wiki. Click Settings."
+          
+           
+                   TextColor="Blue"
+                  
+                   Grid.Row="2"
+                   Grid.Column="0"
+                   Grid.ColumnSpan="3"
+                   Grid.RowSpan="2"
+                   ></Label>
+    </Grid>
+  
+        </StackLayout>
 </ContentPage>
