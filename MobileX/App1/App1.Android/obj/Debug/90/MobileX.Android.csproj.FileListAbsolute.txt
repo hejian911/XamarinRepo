@@ -1,10 +1,5 @@
 C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\bin\Debug\MobileX.Android.dll
 C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\bin\Debug\MobileX.Android.pdb
-C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\bin\Debug\com.companyname.app1.apk
-C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\bin\Debug\com.companyname.app1.aab
-C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\bin\Debug\com.companyname.app1-Signed.aab
-C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\bin\Debug\com.companyname.app1-Signed.apk
-C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\bin\Debug\com.companyname.app1-Signed.apk.idsig
 C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\bin\Debug\MobileX.dll
 C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\bin\Debug\MobileX.pdb
 C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
@@ -21,10 +16,7 @@ C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\obj\Debug\90\XamlC.st
 C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\obj\Debug\90\MobileX.Android.csproj.CopyComplete
 C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\obj\Debug\90\MobileX.Android.dll
 C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\obj\Debug\90\MobileX.Android.pdb
-C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\obj\Debug\90\android\bin\com.companyname.app1.apk
 C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\obj\Debug\90\android\bin\base.zip
-C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\obj\Debug\90\android\bin\com.companyname.app1.aab
-C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\obj\Debug\90\android\bin\com.companyname.app1.apks
 C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\obj\Debug\90\res\layout\tabbar.xml
 C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\obj\Debug\90\res\layout\toolbar.xml
 C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\obj\Debug\90\res\values\styles.xml
@@ -434,7 +426,6 @@ C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\obj\Debug\90\android\
 C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\obj\Debug\90\android\src\mono\MonoPackageManager_Resources.java
 C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\obj\Debug\90\android\src\xamarin\essentials\fileProvider.java
 C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\obj\Debug\90\android\bin\packaged_resources
-C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\obj\Debug\90\android\src\com\companyname\app1\R.java
 C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\obj\Debug\90\android\compressed_assemblies.arm64-v8a.s
 C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\obj\Debug\90\android\compressed_assemblies.armeabi-v7a.s
 C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\obj\Debug\90\android\compressed_assemblies.x86.s
@@ -463,3 +454,12 @@ C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\obj\Debug\90\stamp\_C
 C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
 C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
 C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\bin\Debug\com.companyname.MobileX.apk
+C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\bin\Debug\com.companyname.MobileX.aab
+C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\bin\Debug\com.companyname.MobileX-Signed.aab
+C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\bin\Debug\com.companyname.MobileX-Signed.apk
+C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\bin\Debug\com.companyname.MobileX-Signed.apk.idsig
+C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\obj\Debug\90\android\bin\com.companyname.MobileX.apk
+C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\obj\Debug\90\android\bin\com.companyname.MobileX.aab
+C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\obj\Debug\90\android\bin\com.companyname.MobileX.apks
+C:\Developer\Xamarin\XamarinRepo\MobileX\App1\App1.Android\obj\Debug\90\android\src\com\companyname\mobilex\R.java

@@ -3,8 +3,8 @@
 	.section	.rodata.env.str.1,"aMS",@progbits,1
 	.type	.L.env.str.1, @object
 .L.env.str.1:
-	.asciz	"com.companyname.app1"
-	.size	.L.env.str.1, 21
+	.asciz	"com.companyname.MobileX"
+	.size	.L.env.str.1, 24
 	.section	.data.application_config,"aw",@progbits
 	.type	application_config, @object
 	.p2align	3
@@ -73,7 +73,7 @@ mono_aot_mode_name:
 	.section	.rodata.env.str.8,"aMS",@progbits,1
 	.type	.L.env.str.8, @object
 .L.env.str.8:
-	.asciz	"439dff92-afe1-45e8-a0c1-e46db66e68d0"
+	.asciz	"299fc3f2-0ecc-49f6-bed0-2639b61e2b56"
 	.size	.L.env.str.8, 37
 	.section	.rodata.env.str.9,"aMS",@progbits,1
 	.type	.L.env.str.9, @object

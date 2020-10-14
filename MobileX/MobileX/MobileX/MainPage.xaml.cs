@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Xamarin.Forms;
+﻿using Xamarin.Forms;
 
 namespace MobileX
 {
@@ -14,5 +8,10 @@ namespace MobileX
         {
             InitializeComponent();
         }
+
+        //private void DemoButton_Clicked(object sender, System.EventArgs e)
+        //{
+        //    DemoButton.Text= "I was clicked";
+        //}
     }
 }

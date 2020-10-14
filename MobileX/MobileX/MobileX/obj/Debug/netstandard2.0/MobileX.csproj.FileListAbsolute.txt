@@ -2,7 +2,6 @@ C:\Developer\Xamarin\XamarinRepo\MobileX\MobileX\MobileX\bin\Debug\netstandard2.
 C:\Developer\Xamarin\XamarinRepo\MobileX\MobileX\MobileX\bin\Debug\netstandard2.0\MobileX.dll
 C:\Developer\Xamarin\XamarinRepo\MobileX\MobileX\MobileX\bin\Debug\netstandard2.0\ref\MobileX.dll
 C:\Developer\Xamarin\XamarinRepo\MobileX\MobileX\MobileX\bin\Debug\netstandard2.0\MobileX.pdb
-C:\Developer\Xamarin\XamarinRepo\MobileX\MobileX\MobileX\obj\Debug\netstandard2.0\MobileX.csprojAssemblyReference.cache
 C:\Developer\Xamarin\XamarinRepo\MobileX\MobileX\MobileX\obj\Debug\netstandard2.0\App.xaml.g.cs
 C:\Developer\Xamarin\XamarinRepo\MobileX\MobileX\MobileX\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
 C:\Developer\Xamarin\XamarinRepo\MobileX\MobileX\MobileX\obj\Debug\netstandard2.0\MobileX.AssemblyInfoInputs.cache
@@ -12,3 +11,7 @@ C:\Developer\Xamarin\XamarinRepo\MobileX\MobileX\MobileX\obj\Debug\netstandard2.
 C:\Developer\Xamarin\XamarinRepo\MobileX\MobileX\MobileX\obj\Debug\netstandard2.0\MobileX.dll
 C:\Developer\Xamarin\XamarinRepo\MobileX\MobileX\MobileX\obj\Debug\netstandard2.0\ref\MobileX.dll
 C:\Developer\Xamarin\XamarinRepo\MobileX\MobileX\MobileX\obj\Debug\netstandard2.0\MobileX.pdb
+C:\Developer\Xamarin\XamarinRepo\MobileX\MobileX\MobileX\obj\Debug\netstandard2.0\GridPage.xaml.g.cs
+C:\Developer\Xamarin\XamarinRepo\MobileX\MobileX\MobileX\obj\Debug\netstandard2.0\PeopertyElementSytax.xaml.g.cs
+C:\Developer\Xamarin\XamarinRepo\MobileX\MobileX\MobileX\obj\Debug\netstandard2.0\LoginPage.xaml.g.cs
+C:\Developer\Xamarin\XamarinRepo\MobileX\MobileX\MobileX\obj\Debug\netstandard2.0\SignupPage.xaml.g.cs
