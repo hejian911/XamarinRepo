@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Ousi3i9gzy091mmlxWQGSQAXNEYlmwnqowMvjPTYUkWNLJsE//NlxLzXRjtmGJzJRoZePU5o1q367303sAFK5g==",
+  "dgSpecHash": "Y0vTJUen3pfnyLIOQa/CeJsshio6v8F6qn+Ib9oag3AJ/xxjeg+aYL228/fReON7hchqjaBLqQH4uOOFfZLCmw==",
   "success": true,
   "projectFilePath": "C:\\Developer\\Xamarin\\XamarinRepo\\MobileX\\MobileX\\MobileX\\MobileX.csproj",
   "expectedPackageFiles": [
@@ -8,7 +8,7 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
-    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+    "C:\\Users\\hejia.LAPTOP-KD2OC0CT\\.nuget\\packages\\xamarin.forms\\4.8.0.1534\\xamarin.forms.4.8.0.1534.nupkg.sha512"
   ],
   "logs": []
 }
