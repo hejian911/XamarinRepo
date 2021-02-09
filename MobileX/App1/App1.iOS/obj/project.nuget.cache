@@ -1,11 +1,25 @@
 {
   "version": 2,
-  "dgSpecHash": "Jh+r03jy7wSTds+ezYzmpycYjmYS/4oGehsN/XR7QtMwUZSxAlSjpN3kwyyCroOMFkopKOGMgiPzsD9iHDMuWQ==",
+  "dgSpecHash": "0qTj6PrpnYU2Ob+k8VMvpJr4dIW4WkAv+NMpeZ09VC05ovFwtPsI5+fVtiD79C5PHh5m6AumlISbbWKbIV5uog==",
   "success": true,
   "projectFilePath": "C:\\Developer\\Xamarin\\XamarinRepo\\MobileX\\App1\\App1.iOS\\MobileX.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
-    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+    "C:\\Users\\hejia.LAPTOP-KD2OC0CT\\.nuget\\packages\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Xamarin.Forms from 4.8.0.1534 to 4.6.0.1141. Reference the package directly from the project to select a different version. \r\n MobileX.iOS -> MobileX -> Xamarin.Forms (>= 4.8.0.1534) \r\n MobileX.iOS -> Xamarin.Forms (>= 4.6.0.1141)",
+      "libraryId": "Xamarin.Forms",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0",
+        "Xamarin.iOS,Version=v1.0/win",
+        "Xamarin.iOS,Version=v1.0/win-x64",
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    }
+  ]
 }

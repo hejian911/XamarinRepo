@@ -11,7 +11,7 @@ namespace MobileX
         {
             InitializeComponent();
 
-       			if (!IsUserLoggedIn) {
+       	   if (!IsUserLoggedIn) {
 				MainPage = new NavigationPage (new LoginPage ());
 			} else {
 				MainPage = new NavigationPage (new MainPage ());
